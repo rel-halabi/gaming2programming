@@ -1,0 +1,11 @@
+{"members": [
+  {
+    "senderId": 1,
+    "message": "test"
+  },
+  {
+    "senderId": 0,
+    "sender": 0,
+    "message": "f"
+  }
+]}

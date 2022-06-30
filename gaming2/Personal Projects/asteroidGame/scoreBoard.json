@@ -1,0 +1,54 @@
+{"scores": [
+  {
+    "name": "LAB",
+    "value": 19500
+  },
+  {
+    "name": "BAD",
+    "value": 13500
+  },
+  {
+    "name": "CAB",
+    "value": 8000
+  },
+  {
+    "name": "DRE",
+    "value": 7500
+  },
+  {
+    "name": "BAB",
+    "value": 7000
+  },
+  {
+    "name": "DEB",
+    "value": 6500
+  },
+  {
+    "name": "BAD",
+    "value": 6000
+  },
+  {
+    "name": "CDE",
+    "value": 3500
+  },
+  {
+    "name": "KVR",
+    "value": 3000
+  },
+  {
+    "name": "REL",
+    "value": 2000
+  },
+  {
+    "name": "VIN",
+    "value": 1500
+  },
+  {
+    "name": "FAT",
+    "value": 1000
+  },
+  {
+    "name": "CAD",
+    "value": 500
+  }
+]}
